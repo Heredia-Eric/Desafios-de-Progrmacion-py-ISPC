@@ -1,4 +1,4 @@
-# Escriba un ´rograma que pida al usuario un entero de tres digitos y entregue el número con los digitos en orden inverso:
+# Escriba un programa que pida al usuario un entero de tres digitos y entregue el número con los digitos en orden inverso:
 
 """n = str(input("Ingrese un número de tres digitos: "))
 
